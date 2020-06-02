@@ -1,0 +1,130 @@
+selected_tag:t=""
+bin_dump_file:t=""
+
+mission_settings{
+  player{
+    army:i=1
+    wing:t="player"
+  }
+
+  player_teamB{
+    army:i=2
+  }
+
+  mission{
+    type:t="singleMission"
+    level:t="levels/wake_island.bin"
+    environment:t="Day"
+    weather:t="hazy"
+    chapter:t="ru"
+    locName:t="missions/utd_ussr_object_685"
+    campaign:t="ultimate_test_drive"
+  }
+}
+
+imports{
+  import_record{
+    file:t="PDX_MissionTemplates/ultimate_test_drive/units_template.blk"
+    importAreas:b=yes
+    importUnits:b=yes
+    importTriggers:b=yes
+    importMissionObjectives:b=yes
+    importWayPoints:b=yes
+    showAreas:b=yes
+    showUnits:b=yes
+    showTriggers:b=yes
+    showMissionObjectives:b=yes
+    showWayPoints:b=yes
+
+    excludes{
+    }
+  }
+}
+
+triggers{
+  isCategory:b=yes
+  is_enabled:b=yes
+}
+
+mission_objectives{
+  isCategory:b=yes
+  is_enabled:b=yes
+}
+
+variables{
+}
+
+dialogs{
+}
+
+airfields{
+}
+
+effects{
+}
+
+units{
+  tankModels{
+    name:t="player"
+    tm:m=[[-0.984808, 0, 0.173648] [0, 1, 0] [-0.173648, 0, -0.984808] [1081.28, 16.6001, -1979.15]]
+    unit_class:t="ussr_object_685"
+    objLayer:i=1
+    closed_waypoints:b=no
+    isShipSpline:b=no
+    shipTurnRadius:r=100
+    weapons:t="ussr_object_685_default"
+    bullets0:t="100mm_ussr_HE"
+    bullets1:t="100mm_ussr_BR412D"
+    bullets2:t="100mm_ussr_3BK25"
+    bullets3:t="100mm_ussr_Smoke"
+    bulletsCount0:i=10
+    bulletsCount1:i=10
+    bulletsCount2:i=10
+    bulletsCount3:i=10
+    modification:t="night_vision_system"
+    modification:t="tank_engine_smoke_screen_system"
+    modification:t="art_support"
+    modification:t="modern_tank_laser_rangefinder"
+    modification:t="tank_smoke_screen_system_mod"
+    modification:t="manual_extinguisher"
+    modification:t="tank_tool_kit"
+
+    props{
+      army:i=1
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="fire_at_will"
+    }
+
+    way{
+    }
+  }
+}
+
+areas{
+}
+
+objLayers{
+  layer{
+    enabled:b=yes
+  }
+
+  layer{
+    enabled:b=yes
+  }
+
+  layer{
+    enabled:b=yes
+  }
+
+  layer{
+    enabled:b=yes
+  }
+}
+
+wayPoints{
+}

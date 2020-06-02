@@ -1,0 +1,799 @@
+selected_tag:t=""
+bin_dump_file:t=""
+
+mission_settings{
+  player{
+    army:i=1
+  }
+
+  player_teamB{
+    army:i=2
+  }
+
+  mission{
+    type:t="singleMission"
+    level:t="levels/wake_island.bin"
+    environment:t="Day"
+    weather:t="hazy"
+    locName:t="Ultimate Test Drive"
+  }
+}
+
+imports{
+}
+
+triggers{
+  isCategory:b=yes
+  is_enabled:b=yes
+}
+
+mission_objectives{
+  isCategory:b=yes
+  is_enabled:b=yes
+}
+
+variables{
+}
+
+dialogs{
+}
+
+airfields{
+}
+
+effects{
+}
+
+units{
+  objectGroups{
+    name:t="mediumrange_highdepression_platform"
+    tm:m=[[0.996195, 0, -0.0871557] [0, 1, 0] [0.0871557, 0, 0.996195] [1589.25, 8.0111, -2096]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="mediumrange_mediumdepression_platform"
+    tm:m=[[0.996195, 0, -0.0871557] [0, 1, 0] [0.0871557, 0, 0.996195] [1584.61, 6.78358, -2049.61]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="mediumrange_lowdepression_ramp01"
+    tm:m=[[0.987255, -0.131074, -0.0902521] [0.131005, 0.991359, -0.00670011] [0.0903511, -0.00520886, 0.995895] [1611.27, 4.92582, -2009.44]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="mediumrange_lowdepression_platform"
+    tm:m=[[0.996195, 0, -0.0871557] [0, 1, 0] [0.0871557, 0, 0.996195] [1578.43, 6.95602, -2006.21]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="mediumrange_lowdepression_ramp02"
+    tm:m=[[0.987255, -0.131074, -0.0902521] [0.131005, 0.991359, -0.00670011] [0.0903511, -0.00520886, 0.995895] [1646.6, 0.286556, -2012.83]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="mediumrange_lowdepression_ramp03"
+    tm:m=[[0.987255, -0.131074, -0.0902521] [0.131005, 0.991359, -0.00670011] [0.0903511, -0.00520886, 0.995895] [1681.88, -4.35493, -2016.03]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="mediumrange_mediumdepression_ramp01"
+    tm:m=[[0.986229, -0.139685, -0.0885289] [0.139663, 0.990177, -0.00647145] [0.088564, -0.00598194, 0.996051] [1617.37, 4.6389, -2052.62]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="mediumrange_mediumdepression_ramp02"
+    tm:m=[[0.986229, -0.139685, -0.0885289] [0.139663, 0.990177, -0.00647145] [0.088564, -0.00598194, 0.996051] [1652.78, -0.249626, -2055.78]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="mediumrange_mediumdepression_ramp03"
+    tm:m=[[0.986229, -0.139685, -0.0885289] [0.139663, 0.990177, -0.00647145] [0.088564, -0.00598194, 0.996051] [1688.19, -5.17269, -2058.86]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="mediumrange_highdepression_ramp01"
+    tm:m=[[0.984182, -0.153441, -0.0885289] [0.153474, 0.98813, -0.00647145] [0.0884718, -0.00721791, 0.996051] [1621.62, 5.58435, -2099.08]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="mediumrange_highdepression_ramp02"
+    tm:m=[[0.984182, -0.153441, -0.0885289] [0.153474, 0.98813, -0.00647145] [0.0884718, -0.00721791, 0.996051] [1656.9, 0.115269, -2102.22]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_highdepression_platform"
+    tm:m=[[0.996195, 0, -0.0871557] [0, 1, 0] [0.0871557, 0, 0.996195] [1999.34, 13.6022, -2161.41]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_mediumdepression_platform"
+    tm:m=[[0.996195, 0, -0.0871557] [0, 1, 0] [0.0871557, 0, 0.996195] [1994.7, 12.3746, -2115.02]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_lowdepression_ramp01"
+    tm:m=[[0.987255, -0.131074, -0.0902521] [0.131005, 0.991359, -0.00670011] [0.0903511, -0.00520886, 0.995895] [2021.36, 10.5169, -2074.85]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_lowdepression_platform"
+    tm:m=[[0.996195, 0, -0.0871557] [0, 1, 0] [0.0871557, 0, 0.996195] [1988.52, 12.5471, -2071.62]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_lowdepression_ramp02"
+    tm:m=[[0.987255, -0.131074, -0.0902521] [0.131005, 0.991359, -0.00670011] [0.0903511, -0.00520886, 0.995895] [2056.7, 5.87761, -2078.24]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_lowdepression_ramp03"
+    tm:m=[[0.987255, -0.131074, -0.0902521] [0.131005, 0.991359, -0.00670011] [0.0903511, -0.00520886, 0.995895] [2091.97, 1.23612, -2081.44]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_mediumdepression_ramp01"
+    tm:m=[[0.986229, -0.139685, -0.0885289] [0.139663, 0.990177, -0.00647145] [0.088564, -0.00598194, 0.996051] [2027.46, 10.23, -2118.03]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_mediumdepression_ramp02"
+    tm:m=[[0.986229, -0.139685, -0.0885289] [0.139663, 0.990177, -0.00647145] [0.088564, -0.00598194, 0.996051] [2062.87, 5.34143, -2121.19]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_mediumdepression_ramp03"
+    tm:m=[[0.986229, -0.139685, -0.0885289] [0.139663, 0.990177, -0.00647145] [0.088564, -0.00598194, 0.996051] [2098.28, 0.418366, -2124.27]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_highdepression_ramp01"
+    tm:m=[[0.984182, -0.153441, -0.0885289] [0.153474, 0.98813, -0.00647145] [0.0884718, -0.00721791, 0.996051] [2031.71, 11.1754, -2164.49]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_highdepression_ramp02"
+    tm:m=[[0.984182, -0.153441, -0.0885289] [0.153474, 0.98813, -0.00647145] [0.0884718, -0.00721791, 0.996051] [2066.99, 5.70632, -2167.63]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_highdepression_ramp03"
+    tm:m=[[0.984182, -0.153441, -0.0885289] [0.153474, 0.98813, -0.00647145] [0.0884718, -0.00721791, 0.996051] [2102.13, 0.231491, -2170.62]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_highdepression_ramp04"
+    tm:m=[[0.984182, -0.153441, -0.0885289] [0.153474, 0.98813, -0.00647145] [0.0884718, -0.00721791, 0.996051] [2137.4, -5.26277, -2173.53]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_mediumdepression_ramp04"
+    tm:m=[[0.986229, -0.139685, -0.0885289] [0.139663, 0.990177, -0.00647145] [0.088564, -0.00598194, 0.996051] [2133.6, -4.5221, -2127.33]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  objectGroups{
+    name:t="longrange_lowdepression_ramp04"
+    tm:m=[[0.987255, -0.131074, -0.0902521] [0.131005, 0.991359, -0.00670011] [0.0903511, -0.00520886, 0.995895] [2127.41, -3.36266, -2084.62]]
+    unit_class:t="det_af_concrete_wall_flat_roof_a"
+    objLayer:i=0
+
+    props{
+      army:i=0
+      active:b=yes
+    }
+  }
+
+  armada{
+    name:t="ru_pe-8"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [-5393.98, 476.834, -200]]
+    unit_class:t="pe-8_m82"
+    objLayer:i=1
+    closed_waypoints:b=no
+    isShipSpline:b=no
+    shipTurnRadius:r=100
+    wayPoints:t="way_points_01"
+    weapons:t="pe-8_fab5000"
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      free_distance:r=70
+      floating_distance:r=50
+      minimum_distance_to_earth:r=20
+      altLimit:r=6000
+      attack_type:t="dont_aim"
+      skill:i=4
+
+      plane{
+        wing_formation:t="Diamond"
+        row_distances:r=3
+        col_distances:r=3
+        super_formation:t="Diamond"
+        super_row_distances:r=1.5
+        super_col_distances:r=1.5
+        ai_skill:t="NORMAL"
+        task:t="FLY_WAYPOINT"
+      }
+    }
+
+    way{
+    }
+  }
+
+  armada{
+    name:t="de_arado-234c-3"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [-4715.28, 520.447, -1230.51]]
+    unit_class:t="arado-234c-3"
+    objLayer:i=1
+    closed_waypoints:b=no
+    isShipSpline:b=no
+    shipTurnRadius:r=100
+    wayPoints:t="way_points_01"
+    weapons:t="arado234_1x1000"
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      free_distance:r=70
+      floating_distance:r=50
+      minimum_distance_to_earth:r=20
+      altLimit:r=6000
+      attack_type:t="dont_aim"
+      skill:i=4
+
+      plane{
+        wing_formation:t="Diamond"
+        row_distances:r=3
+        col_distances:r=3
+        super_formation:t="Diamond"
+        super_row_distances:r=1.5
+        super_col_distances:r=1.5
+        ai_skill:t="NORMAL"
+        task:t="FLY_WAYPOINT"
+      }
+    }
+
+    way{
+    }
+  }
+
+  armada{
+    name:t="us_f-104c"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [-4128.25, 520.447, -1230.51]]
+    unit_class:t="f-104c"
+    objLayer:i=1
+    closed_waypoints:b=no
+    isShipSpline:b=no
+    shipTurnRadius:r=100
+    wayPoints:t="way_points_01"
+    weapons:t="f-104c_aero_7_aim_9b"
+    bullets0:t="M60_armor_targets"
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=600
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      free_distance:r=70
+      floating_distance:r=50
+      minimum_distance_to_earth:r=20
+      altLimit:r=6000
+      attack_type:t="dont_aim"
+      skill:i=4
+
+      plane{
+        wing_formation:t="Diamond"
+        row_distances:r=3
+        col_distances:r=3
+        super_formation:t="Diamond"
+        super_row_distances:r=1.5
+        super_col_distances:r=1.5
+        ai_skill:t="NORMAL"
+        task:t="FLY_WAYPOINT"
+      }
+    }
+
+    way{
+    }
+  }
+
+  armada{
+    name:t="de_bf-109f-4_trop"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [-3637.53, 520.447, -2108.99]]
+    unit_class:t="bf-109f-4_trop"
+    objLayer:i=1
+    closed_waypoints:b=no
+    isShipSpline:b=no
+    shipTurnRadius:r=100
+    wayPoints:t="way_points_01"
+    weapons:t="Bf-109F-4_R1"
+    bullets0:t="mg151_armor_targets"
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=600
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      free_distance:r=70
+      floating_distance:r=50
+      minimum_distance_to_earth:r=20
+      altLimit:r=6000
+      attack_type:t="dont_aim"
+      skill:i=4
+
+      plane{
+        wing_formation:t="Diamond"
+        row_distances:r=3
+        col_distances:r=3
+        super_formation:t="Diamond"
+        super_row_distances:r=1.5
+        super_col_distances:r=1.5
+        ai_skill:t="NORMAL"
+        task:t="FLY_WAYPOINT"
+      }
+    }
+
+    way{
+    }
+  }
+
+  armada{
+    name:t="uk_swordfish_mk2"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [-3522.59, 520.447, 542.171]]
+    unit_class:t="swordfish_mk2"
+    objLayer:i=1
+    closed_waypoints:b=no
+    isShipSpline:b=no
+    shipTurnRadius:r=100
+    wayPoints:t="way_points_01"
+    weapons:t="swordfish_mk1_rockets_60lb"
+    bullets0:t="7_7_all_tracers"
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=2000
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      free_distance:r=70
+      floating_distance:r=50
+      minimum_distance_to_earth:r=20
+      altLimit:r=6000
+      attack_type:t="dont_aim"
+      skill:i=4
+
+      plane{
+        wing_formation:t="Diamond"
+        row_distances:r=3
+        col_distances:r=3
+        super_formation:t="Diamond"
+        super_row_distances:r=1.5
+        super_col_distances:r=1.5
+        ai_skill:t="NORMAL"
+        task:t="FLY_WAYPOINT"
+      }
+    }
+
+    way{
+    }
+  }
+
+  squad{
+    name:t="planes"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [-4279.53, 511.724, -845.57]]
+
+    props{
+      object_marking:i=0
+      squad_members:t="de_arado-234c-3"
+      squad_members:t="de_bf-109f-4_trop"
+      squad_members:t="ru_pe-8"
+      squad_members:t="uk_swordfish_mk2"
+      squad_members:t="us_f-104c"
+    }
+  }
+}
+
+areas{
+  mediumrange_highdepression_area{
+    type:t="Sphere"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [1592.8, 32.2172, -2095.66]]
+    objLayer:i=0
+
+    props{
+    }
+  }
+
+  mediumrange_mediumdepression_area{
+    type:t="Sphere"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [1585.03, 31.0688, -2047.11]]
+    objLayer:i=0
+
+    props{
+    }
+  }
+
+  mediumrange_lowdepression_area{
+    type:t="Sphere"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [1576.6, 31.0932, -2003.98]]
+    objLayer:i=0
+
+    props{
+    }
+  }
+
+  longrange_lowdepression_area{
+    type:t="Sphere"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [1991.79, 37.6164, -2068.52]]
+    objLayer:i=0
+
+    props{
+    }
+  }
+
+  longrange_mediumdepression_area{
+    type:t="Sphere"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [1991.79, 37.6164, -2114.33]]
+    objLayer:i=0
+
+    props{
+    }
+  }
+
+  longrange_highdepression_area{
+    type:t="Sphere"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [2000.02, 37.6164, -2161.36]]
+    objLayer:i=0
+
+    props{
+    }
+  }
+}
+
+objLayers{
+  layer{
+    enabled:b=yes
+  }
+
+  layer{
+    enabled:b=yes
+  }
+
+  layer{
+    enabled:b=yes
+  }
+
+  layer{
+    enabled:b=yes
+  }
+}
+
+wayPoints{
+  way_points_01{
+    closed_waypoints:b=yes
+    isShipSpline:b=no
+    shipTurnRadius:r=100
+
+    way{
+      way_points_01_wp_01{
+        type:t="normal"
+        tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [-1700, 720.477, 800]]
+
+        props{
+          speed:r=2000
+          tas:b=no
+          moveType:t="MOVETO_STRAIGHT"
+          shouldKeepFormation:b=no
+          canUsePathFinder:b=yes
+        }
+      }
+
+      way_points_01_wp_02{
+        type:t="normal"
+        tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [1300, 720.477, 1400]]
+
+        props{
+          speed:r=2000
+          tas:b=no
+          moveType:t="MOVETO_STRAIGHT"
+          shouldKeepFormation:b=no
+          canUsePathFinder:b=yes
+        }
+      }
+
+      way_points_01_wp_03{
+        type:t="normal"
+        tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [2538.28, 720.477, 540.201]]
+
+        props{
+          speed:r=2000
+          tas:b=no
+          moveType:t="MOVETO_STRAIGHT"
+          shouldKeepFormation:b=no
+          canUsePathFinder:b=yes
+        }
+      }
+
+      way_points_01_wp_04{
+        type:t="normal"
+        tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [3244.45, 722.477, -1221.98]]
+
+        props{
+          speed:r=2000
+          tas:b=no
+          moveType:t="MOVETO_STRAIGHT"
+          shouldKeepFormation:b=no
+          canUsePathFinder:b=yes
+        }
+      }
+
+      way_points_01_wp_05{
+        type:t="normal"
+        tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [3022.34, 722.477, -2661.08]]
+
+        props{
+          speed:r=2000
+          tas:b=no
+          moveType:t="MOVETO_STRAIGHT"
+          shouldKeepFormation:b=no
+          canUsePathFinder:b=yes
+        }
+      }
+
+      way_points_01_wp_06{
+        type:t="normal"
+        tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [900, 720.477, -4000]]
+
+        props{
+          speed:r=2000
+          tas:b=no
+          moveType:t="MOVETO_STRAIGHT"
+          shouldKeepFormation:b=no
+          canUsePathFinder:b=yes
+        }
+      }
+
+      way_points_01_wp_07{
+        type:t="normal"
+        tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [-1500, 720.477, -3700]]
+
+        props{
+          speed:r=2000
+          tas:b=no
+          moveType:t="MOVETO_STRAIGHT"
+          shouldKeepFormation:b=no
+          canUsePathFinder:b=yes
+        }
+      }
+
+      way_points_01_wp_08{
+        type:t="normal"
+        tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [-3548.83, 722.477, -2326.16]]
+
+        props{
+          speed:r=2000
+          tas:b=no
+          moveType:t="MOVETO_STRAIGHT"
+          shouldKeepFormation:b=no
+          canUsePathFinder:b=yes
+        }
+      }
+
+      way_points_01_wp_09{
+        type:t="normal"
+        tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [-3612.08, 722.477, -178.844]]
+
+        props{
+          speed:r=2000
+          tas:b=no
+          moveType:t="MOVETO_STRAIGHT"
+          shouldKeepFormation:b=no
+          canUsePathFinder:b=yes
+        }
+      }
+    }
+  }
+}

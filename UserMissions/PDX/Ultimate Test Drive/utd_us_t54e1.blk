@@ -1,0 +1,129 @@
+selected_tag:t=""
+bin_dump_file:t=""
+
+mission_settings{
+  player{
+    army:i=1
+    wing:t="player"
+  }
+
+  player_teamB{
+    army:i=2
+  }
+
+  mission{
+    type:t="singleMission"
+    level:t="levels/wake_island.bin"
+    environment:t="Day"
+    weather:t="hazy"
+    chapter:t="us"
+    locName:t="missions/utd_us_t54e1"
+    campaign:t="ultimate_test_drive"
+  }
+}
+
+imports{
+  import_record{
+    file:t="PDX_MissionTemplates/ultimate_test_drive/units_template.blk"
+    importAreas:b=yes
+    importUnits:b=yes
+    importTriggers:b=yes
+    importMissionObjectives:b=yes
+    importWayPoints:b=yes
+    showAreas:b=yes
+    showUnits:b=yes
+    showTriggers:b=yes
+    showMissionObjectives:b=yes
+    showWayPoints:b=yes
+
+    excludes{
+    }
+  }
+}
+
+triggers{
+  isCategory:b=yes
+  is_enabled:b=yes
+}
+
+mission_objectives{
+  isCategory:b=yes
+  is_enabled:b=yes
+}
+
+variables{
+}
+
+dialogs{
+}
+
+airfields{
+}
+
+effects{
+}
+
+units{
+  tankModels{
+    name:t="player"
+    tm:m=[[-0.984808, 0, 0.173648] [0, 1, 0] [-0.173648, 0, -0.984808] [1081.28, 16.6001, -1979.15]]
+    unit_class:t="us_t54e1"
+    objLayer:i=1
+    closed_waypoints:b=no
+    isShipSpline:b=no
+    shipTurnRadius:r=100
+    weapons:t="us_t54e1_default"
+    bullets0:t="105mm_us_T298E1_HEAT"
+    bullets1:t="105mm_us_T279_APDS"
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=18
+    bulletsCount1:i=18
+    bulletsCount2:i=10
+    bulletsCount3:i=0
+    modification:t="tank_rangefinder"
+    modification:t="night_vision_system"
+    modification:t="tank_additional_armor"
+    modification:t="art_support"
+    modification:t="manual_extinguisher"
+    modification:t="tank_tool_kit"
+
+    props{
+      army:i=1
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="fire_at_will"
+    }
+
+    way{
+    }
+  }
+}
+
+areas{
+}
+
+objLayers{
+  layer{
+    enabled:b=yes
+  }
+
+  layer{
+    enabled:b=yes
+  }
+
+  layer{
+    enabled:b=yes
+  }
+
+  layer{
+    enabled:b=yes
+  }
+}
+
+wayPoints{
+}

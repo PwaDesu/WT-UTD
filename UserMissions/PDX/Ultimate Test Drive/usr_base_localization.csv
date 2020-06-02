@@ -1,0 +1,82 @@
+"<ID|readonly|noverify>";"<English>";"<French>";
+
+"utd_respawn_hint";"When dead, press Spacebar to respawn";"Après être mort, appuyez sur Espace pour réapparaitre";
+"utd_tree_switch_hint";"Hold shortly to switch between technology trees";"Appuyez pour changer d'arbre technologique";
+"utd_instant_reload_hint";"Hold shortly to toggle instant reload";"Appuyez pour activer/désactiver le rechargement instantané";
+"utd_ai_behaviour_switch_hint";"Hold shortly to switch the AI behaviour between returning fire and passive behaviour";"Appuyez pour changer le comportement de l'IA entre le tir de riposte et le comportement passif";
+"utd_player_immortality_toggle_hint";"Hold shortly to toggle immortality for yourself";"Appuyez pour activer/désactiver l'immortalité pour vous-même";
+"utd_ai_respawn_toggle_hint";"Hold shortly to toggle the automatic respawn of AI units";"Appuyez pour activer/désactiver la résurrection automatique des bots";
+"utd_tree_switch_ru";"Switching to the Russian tree";"Passage à l'arbre Russe";
+"utd_tree_switch_us";"Switching to the American tree";"Passage à l'arbre Américain";
+"utd_tree_switch_uk";"Switching to the British tree";"Passage à l'arbre Britannique";
+"utd_tree_switch_se";"Switching to the Swedish tree";"Passage à l'arbre Suédois";
+"utd_tree_switch_de";"Switching to the German tree";"Passage à l'arbre Allemand";
+"utd_tree_switch_it";"Switching to the Italian tree";"Passage à l'arbre Italien";
+"utd_tree_switch_jp";"Switching to the Japanese tree";"Passage à l'arbre Japonais";
+"utd_tree_switch_cn";"Switching to the Chinese tree";"Passage à l'arbre Chinois";
+"utd_tree_switch_fr";"Switching to the French tree";"Passage à l'arbre Français";
+"utd_instant_reload_enabled";"Instant reload has been enabled";"Le rechargement automatique a été activé";
+"utd_instant_reload_disabled";"Instant reload has been disabled";"Le rechargement automatique a été désactivé";
+"utd_ai_behaviour_switch_return_fire";"AI Behaviour has been set to return fire";"Le comportement de l'IA a été régler sur le tir de riposte";
+"utd_ai_behaviour_switch_dont_aim";"AI Behaviour has been set to passive";"Le comportement de l'IA a été régler sur passif";
+"utd_player_immortality_enabled";"Player immortality has been enabled";"Votre immortalité a été activé";
+"utd_player_immortality_disabled";"Player immortality has been disabled";"Votre immortalité a été désactivé";
+"utd_ai_respawn_enabled";"The automatic respawn of AI units has been enabled";"La résurrection automatique des bots a été activé";
+"utd_ai_respawn_disabled";"The automatic respawn of AI units has been disabled";"La résurrection automatique des bots a été désactivé";
+"utd_teleport_to_next";"Hold shortly to teleport to the next spot";"Appuyez pour être téléporté vers le spot suivant";
+"utd_teleport_to_spawn";"Teleporting to spawn";"Téléportation vers le spawn";
+"utd_teleport_to_platform1";"Teleporting to platform #1";"Téléportation vers la platforme #1";
+"utd_teleport_to_platform2";"Teleporting to platform #2";"Téléportation vers la platforme #2";
+"utd_teleport_to_platform3";"Teleporting to platform #3";"Téléportation vers la platforme #3";
+"utd_teleport_to_platform4";"Teleporting to platform #4";"Téléportation vers la platforme #4";
+"utd_teleport_to_platform5";"Teleporting to platform #5";"Téléportation vers la platforme #5";
+"utd_teleport_to_platform6";"Teleporting to platform #6";"Téléportation vers la platforme #6";
+"utd_plane_behaviour_switch";"Hold shortly to switch the planes behaviour between passive and aggressive";"Appuyez pour changer le comportement des avions entre passif et agressif";
+"utd_plane_behaviour_switch_attack";"Planes behaviour has been set to aggressive";"Le comportement des avions a été régler sur agressif";
+"utd_plane_behaviour_switch_passive";"Planes behaviour has been set to passive";"Le comportement des avions a été régler sur passif";
+
+"missions/ultimate_test_drive";"Ultimate Test Drive";"L'Ultime Test De Tank";
+"missions/ultimate_test_drive/date";"31/05/2020";"31/05/2020";
+"missions/ultimate_test_drive/objective";"No objective";"Pas d'objectif";
+"missions/ultimate_test_drive/desc";"Test drive";"Test de tank";
+
+"utd_generic_desc";"This test drive uses keybinds for most of its features, if you haven't assigned a key to the following actions, you may want to do so:
+- Quick Voice Message 1: Switch to the next tech tree
+- Quick Voice Message 2: Toggle instant reload
+- Quick Voice Message 3: switch the AI behaviour between returning fire and passive behaviour
+- Quick Voice Message 4: Toggle player immortality
+- Quick Voice Message 5: Toggle automatic respawn of AI units
+- Quick Voice Message 6: Teleport yourself to the next spot
+- Quick Voice Message 7: Switch the planes behaviour between passive and aggressive
+- Quick Voice Message 9: Show the keys bound to each action
+Finally, you can use Spacebar to respawn when you're dead";"Cet essai utilise des raccourcis clavier pour la plupart de ses fonctions. Si vous n'avez pas attribué de touche aux actions suivantes, il serait peut être utile de le faire:
+- Message Radio Rapide 1: Bascule vers l'arbre technologique suivant
+- Message Radio Rapide 2: Active/désactive le rechargement instantané
+- Message Radio Rapide 3: Change le comportement de l'IA entre le tir de riposte et le comportement passif
+- Message Radio Rapide 4: Active/désactive l'immortalité pour le joueur
+- Message Radio Rapide 5: Active/désactive la résurrection automatique des bots
+- Message Radio Rapide 6: Téléporte vers le spot suivant
+- Message Radio Rapide 7: Change le comportement des avions entre passif et agressif
+- Message Radio Rapide 9: Montre les touches assignés à chaque action
+Enfin, vous pouvez utiliser Espace pour réapparaitre après être mort";
+
+"campaigns/ultimate_test_drive";"Ultimate Test Drive";"L'Ultime Test De Tank";
+"campaigns/ultimate_test_drive/desc";"Custom test drive with much more features than the standard test drive - Supports all tanks (?)";"Custom test de tank avec beaucoup plus de possibilités - Tout les véhicules sont supportés (?)";
+"chapters/fr";"France";"France";
+"chapters/fr/desc";"French units";"Véhicules Français";
+"chapters/de";"Germany";"Allemagne";
+"chapters/de/desc";"German units";"Véhicules Allemand";
+"chapters/it";"Italy";"Italie";
+"chapters/it/desc";"Italian units";"Véhicules Italien";
+"chapters/se";"Sweden";"Suéde";
+"chapters/se/desc";"Swedish units";"Véhicules Suédois";
+"chapters/uk";"United Kingdom";"Royaume-Uni";
+"chapters/uk/desc";"British units";"Véhicules Britannique";
+"chapters/ru";"Russia";"Russie";
+"chapters/ru/desc";"Russian units";"Véhicules Russes";
+"chapters/cn";"China";"Chine";
+"chapters/cn/desc";"Chinese units";"Véhicules Chinois";
+"chapters/us";"United States";"Etats-Unis";
+"chapters/us/desc";"American units";"Véhicules Américain";
+"chapters/jp";"Japan";"Japon";
+"chapters/jp/desc";"Japanese units";"Véhicules Japonais";
