@@ -2,7 +2,7 @@
 
 ## Description
 
-I got tired of the War Thunder's standard test drive, I found it to simply be too incomplete to properly give an idea of how well a vehicle can perform. So I built this singleplayer mission (well, "this", technically over 600 missions, but you get what I mean) as some kind of sandbox and to allow for better assesment of a vehicle's performance.
+I got tired of the War Thunder's standard test drive, I found it to simply be too incomplete to properly give an idea of how well a vehicle can perform. So I built this singleplayer mission (well, "this", technically over 600 missions, but you get what I mean) as some kind of sandbox and to allow for better assessment of a vehicle's performance.
 
 ## Features & Drawbacks
 
@@ -10,12 +10,12 @@ I got tired of the War Thunder's standard test drive, I found it to simply be to
 + All ground units of all nations are on the map, ready to be fired at
 + The ground units of only one nation is shown at all times, but which nation is shown can be changed at any time with a single keybind
 + Toggleable instant reload
-+ The ground units's behaviour can be switched between returning fire and staying passive
++ The ground units' behaviour can be switched between returning fire and staying passive
 + Toggleable automatic respawn of AI units
 + Long and medium-range sniping spots, with ramps for depression tests
 + Toggleable immortality for the player
 + Several planes (with automatic respawn too) of different eras to test out AAs
-+ The planes's behaviour can be switched between aggressive and passive
++ The planes' behaviour can be switched between aggressive and passive
 + French localization
 + All actions (like toggling instant reload) can be done with keybinds
 + Relatively small size considering the amount of missions included
