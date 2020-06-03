@@ -2,7 +2,7 @@
 
 ## Description
 
-I got tired of the War Thunder's standard test drive, I found it to simply be too incomplete to properly give an idea of how well a vehicle can perform. So I built this singleplayer mission (well, "this", technically over 600 missions, but you get what I mean) as some kind of sandbox and to allow for better assesmennt of a vehicle's performance.
+I got tired of the War Thunder's standard test drive, I found it to simply be too incomplete to properly give an idea of how well a vehicle can perform. So I built this singleplayer mission (well, "this", technically over 600 missions, but you get what I mean) as some kind of sandbox and to allow for better assesment of a vehicle's performance.
 
 ## Features & Drawbacks
 
