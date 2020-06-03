@@ -22,6 +22,7 @@ I got tired of the War Thunder's standard test drive, I found it to simply be to
 - Much longer loading time (really, even with a SSD, we're talking about a good minute at least)
 - Only English and French localization currently
 - Selecting shells prior to launching the mission is currently not possible
+- Only available for owned vehicles
 ```
 
 ## Installation
