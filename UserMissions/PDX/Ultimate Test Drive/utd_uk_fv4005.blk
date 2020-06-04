@@ -78,8 +78,8 @@ units{
     bullets2:t=""
     bullets3:t=""
     bulletsCount0:i=12
-    bulletsCount1:i=10
-    bulletsCount2:i=10
+    bulletsCount1:i=0
+    bulletsCount2:i=0
     bulletsCount3:i=0
     modification:t="tank_additional_armor"
     modification:t="manual_extinguisher"

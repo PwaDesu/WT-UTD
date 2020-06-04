@@ -79,7 +79,7 @@ units{
     bullets3:t=""
     bulletsCount0:i=300
     bulletsCount1:i=300
-    bulletsCount2:i=10
+    bulletsCount2:i=0
     bulletsCount3:i=0
     modification:t="art_support"
     modification:t="manual_extinguisher"
