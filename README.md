@@ -20,7 +20,7 @@ I got tired of the War Thunder's standard test drive, I found it to simply be to
 + All actions (like toggling instant reload) can be done with keybinds
 + Relatively small size considering the amount of missions included
 - Much longer loading time (really, even with a SSD, we're talking about a good minute at least)
-- Only English and French localization currently
+- Only English and French localization currently (mission names are fully localized though)
 - Selecting shells prior to launching the mission is currently not possible
 - Only available for owned vehicles
 ```
