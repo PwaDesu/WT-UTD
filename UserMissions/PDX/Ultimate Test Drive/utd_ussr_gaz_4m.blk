@@ -77,10 +77,10 @@ units{
     bullets1:t="7_62mm_DT_universal"
     bullets2:t="7_62mm_DT_API"
     bullets3:t="7_62mm_DT_APIT"
-    bulletsCount0:i=250
-    bulletsCount1:i=250
-    bulletsCount2:i=250
-    bulletsCount3:i=250
+    bulletsCount0:i=1
+    bulletsCount1:i=1
+    bulletsCount2:i=1
+    bulletsCount3:i=1
     modification:t="art_support"
     modification:t="manual_extinguisher"
     modification:t="tank_tool_kit"

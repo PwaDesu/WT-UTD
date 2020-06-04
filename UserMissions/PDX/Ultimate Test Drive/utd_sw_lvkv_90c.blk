@@ -77,10 +77,10 @@ units{
     bullets1:t="40mm_sw_kan_90c_HE"
     bullets2:t="40mm_sw_kan_HE_VT"
     bullets3:t="40mm_sw_kan_APDSFS"
-    bulletsCount0:i=1
-    bulletsCount1:i=1
-    bulletsCount2:i=1
-    bulletsCount3:i=1
+    bulletsCount0:i=58
+    bulletsCount1:i=58
+    bulletsCount2:i=58
+    bulletsCount3:i=58
     modification:t="night_vision_system"
     modification:t="art_support"
     modification:t="modern_tank_laser_rangefinder"

@@ -77,9 +77,9 @@ units{
     bullets1:t="30mm_mk_103_38_APCR"
     bullets2:t="30mm_mk_103_38_HE"
     bullets3:t=""
-    bulletsCount0:i=133
-    bulletsCount1:i=133
-    bulletsCount2:i=133
+    bulletsCount0:i=4
+    bulletsCount1:i=4
+    bulletsCount2:i=4
     bulletsCount3:i=0
     modification:t="tank_additional_armor"
     modification:t="art_support"

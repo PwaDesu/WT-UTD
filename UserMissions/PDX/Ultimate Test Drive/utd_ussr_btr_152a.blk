@@ -77,9 +77,9 @@ units{
     bullets1:t="14mm_ussr_KPVT_API"
     bullets2:t="14mm_ussr_KPVT_HEI"
     bullets3:t=""
-    bulletsCount0:i=133
-    bulletsCount1:i=133
-    bulletsCount2:i=133
+    bulletsCount0:i=2
+    bulletsCount1:i=2
+    bulletsCount2:i=2
     bulletsCount3:i=0
     modification:t="art_support"
     modification:t="manual_extinguisher"

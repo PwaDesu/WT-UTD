@@ -31,9 +31,8 @@
 "utd_teleport_to_platform4";"Teleporting to platform #4";"Téléportation vers la platforme #4";
 "utd_teleport_to_platform5";"Teleporting to platform #5";"Téléportation vers la platforme #5";
 "utd_teleport_to_platform6";"Teleporting to platform #6";"Téléportation vers la platforme #6";
-"utd_plane_behaviour_switch";"Hold shortly to switch the planes behaviour between passive and aggressive";"Appuyez pour changer le comportement des avions entre passif et agressif";
-"utd_plane_behaviour_switch_attack";"Planes behaviour has been set to aggressive";"Le comportement des avions a été régler sur agressif";
-"utd_plane_behaviour_switch_passive";"Planes behaviour has been set to passive";"Le comportement des avions a été régler sur passif";
+"utd_plane_behaviour_attack";"Hold shortly to have the planes attack you (will stop once the player dies)";"Appuyez pour faire en sorte que les avions vous attaquent (Ils arrêteront une fois que le joueur est mort)";
+"utd_plane_behaviour_set_attack";"Planes will now attack you until you die";"Les avions vont maintenant vous attaqué jusqu'a ce que vous mourriez";
 
 "missions/ultimate_test_drive";"Ultimate Test Drive";"L'Ultime Test De Tank";
 "missions/ultimate_test_drive/date";"31/05/2020";"31/05/2020";
@@ -47,7 +46,7 @@
 - Quick Voice Message 4: Toggle player immortality
 - Quick Voice Message 5: Toggle automatic respawn of AI units
 - Quick Voice Message 6: Teleport yourself to the next spot
-- Quick Voice Message 7: Switch the planes behaviour between passive and aggressive
+- Quick Voice Message 7: Set the planes to attack you until you die
 - Quick Voice Message 9: Show the keys bound to each action
 Finally, you can use Spacebar to respawn when you're dead";"Cet essai utilise des raccourcis clavier pour la plupart de ses fonctions. Si vous n'avez pas attribué de touche aux actions suivantes, il serait peut être utile de le faire:
 - Message Radio Rapide 1: Bascule vers l'arbre technologique suivant
@@ -56,7 +55,7 @@ Finally, you can use Spacebar to respawn when you're dead";"Cet essai utilise de
 - Message Radio Rapide 4: Active/désactive l'immortalité pour le joueur
 - Message Radio Rapide 5: Active/désactive la résurrection automatique des bots
 - Message Radio Rapide 6: Téléporte vers le spot suivant
-- Message Radio Rapide 7: Change le comportement des avions entre passif et agressif
+- Message Radio Rapide 7: Régle les avions pour vous attaquer jusqu'a ce que vous mourriez
 - Message Radio Rapide 9: Montre les touches assignés à chaque action
 Enfin, vous pouvez utiliser Espace pour réapparaitre après être mort";
 

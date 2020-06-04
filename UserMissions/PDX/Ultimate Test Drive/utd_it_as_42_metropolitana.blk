@@ -77,9 +77,9 @@ units{
     bullets1:t="20mm_Breda_APHE"
     bullets2:t="20mm_ger_kwk30_APCR"
     bullets3:t=""
-    bulletsCount0:i=1
-    bulletsCount1:i=1
-    bulletsCount2:i=1
+    bulletsCount0:i=33
+    bulletsCount1:i=33
+    bulletsCount2:i=33
     bulletsCount3:i=0
     modification:t="art_support"
     modification:t="manual_extinguisher"

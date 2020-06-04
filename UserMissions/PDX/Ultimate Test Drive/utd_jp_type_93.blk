@@ -77,7 +77,7 @@ units{
     bullets1:t=""
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=8
+    bulletsCount0:i=1
     bulletsCount1:i=0
     bulletsCount2:i=0
     bulletsCount3:i=0

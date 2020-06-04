@@ -77,10 +77,10 @@ units{
     bullets1:t="37mm_usa_m59a1_AP"
     bullets2:t="12mm_usa_M2HB_common"
     bullets3:t="12mm_usa_M2HB_API"
-    bulletsCount0:i=6
-    bulletsCount1:i=6
-    bulletsCount2:i=212
-    bulletsCount3:i=212
+    bulletsCount0:i=12
+    bulletsCount1:i=12
+    bulletsCount2:i=4
+    bulletsCount3:i=4
     modification:t="art_support"
     modification:t="manual_extinguisher"
     modification:t="tank_tool_kit"

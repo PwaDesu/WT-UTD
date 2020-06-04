@@ -77,9 +77,9 @@ units{
     bullets1:t="37mm_ger_flak36_AP"
     bullets2:t="37mm_ger_mgr_HE"
     bullets3:t=""
-    bulletsCount0:i=4
-    bulletsCount1:i=4
-    bulletsCount2:i=4
+    bulletsCount0:i=41
+    bulletsCount1:i=41
+    bulletsCount2:i=41
     bulletsCount3:i=0
     modification:t="art_support"
     modification:t="manual_extinguisher"

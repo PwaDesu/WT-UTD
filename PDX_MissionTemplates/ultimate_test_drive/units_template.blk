@@ -278,7 +278,7 @@ triggers{
 
       playHint{
         hintType:t="tutorialHint"
-        name:t="utd_plane_behaviour_switch"
+        name:t="utd_plane_behaviour_attack"
         action:t="show"
         shouldFadeOut:b=no
         isOverFade:b=no
@@ -2018,29 +2018,19 @@ triggers{
       }
 
       conditions{
-        varCompareString{
-          var_value:t="planeBehaviour"
-          value:t="passive"
-          comparasion_func:t="equal"
-        }
       }
 
       actions{
         unitAttackTarget{
           playerAttracted:b=yes
           object:t="planes"
-          attack_type:t="attack_player"
-          keepDeadUnitsInTargetList:b=yes
-        }
-
-        varSetString{
-          value:t="attack"
-          var:t="planeBehaviour"
+          attack_type:t="kill_player"
+          keepDeadUnitsInTargetList:b=no
         }
 
         playHint{
           hintType:t="standard"
-          name:t="utd_plane_behaviour_switch_attack"
+          name:t="utd_plane_behaviour_set_attack"
           action:t="show"
           shouldFadeOut:b=no
           isOverFade:b=no
@@ -2054,40 +2044,6 @@ triggers{
       }
 
       else_actions{
-        unitSetProperties{
-          object_marking:i=0
-          object_var_name:t=""
-          object_var_comp_op:t="equal"
-          object_var_value:i=0
-          object:t="planes"
-          attack_type:t="dont_aim"
-        }
-
-        unitRespawn{
-          delay:r=2
-          offset:p3=30, 30, 30
-          object:t="planes"
-          target:t="planes_respawn_area"
-        }
-
-        varSetString{
-          value:t="passive"
-          var:t="planeBehaviour"
-        }
-
-        playHint{
-          hintType:t="standard"
-          name:t="utd_plane_behaviour_switch_passive"
-          action:t="show"
-          shouldFadeOut:b=no
-          isOverFade:b=no
-          time:r=5
-          priority:i=0
-          target_marking:i=0
-          object_var_name:t=""
-          object_var_comp_op:t="equal"
-          object_var_value:i=0
-        }
       }
     }
   }
@@ -2121,7 +2077,6 @@ variables{
   AIBehaviour:t="dont_aim"
   playerImmortal:b=no
   lastTeleport:t="spawn"
-  planeBehaviour:t="passive"
 }
 
 dialogs{

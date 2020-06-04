@@ -77,8 +77,8 @@ units{
     bullets1:t="25mm_ussr_72K_AP"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=99
-    bulletsCount1:i=99
+    bulletsCount0:i=28
+    bulletsCount1:i=28
     bulletsCount2:i=0
     bulletsCount3:i=0
     modification:t="art_support"

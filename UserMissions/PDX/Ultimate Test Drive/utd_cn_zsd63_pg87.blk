@@ -77,8 +77,8 @@ units{
     bullets1:t="25mm_cn_AP"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=120
-    bulletsCount1:i=120
+    bulletsCount0:i=6
+    bulletsCount1:i=6
     bulletsCount2:i=0
     bulletsCount3:i=0
     modification:t="art_support"

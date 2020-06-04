@@ -77,9 +77,9 @@ units{
     bullets1:t=""
     bullets2:t="7_92mm_MG34_ap"
     bullets3:t=""
-    bulletsCount0:i=26
-    bulletsCount1:i=450
-    bulletsCount2:i=450
+    bulletsCount0:i=124
+    bulletsCount1:i=6
+    bulletsCount2:i=6
     bulletsCount3:i=0
     modification:t="art_support"
     modification:t="manual_extinguisher"

@@ -77,9 +77,9 @@ units{
     bullets1:t="30mm_hs_831_APDS"
     bullets2:t="30mm_hs_831_HE"
     bullets3:t=""
-    bulletsCount0:i=133
-    bulletsCount1:i=133
-    bulletsCount2:i=133
+    bulletsCount0:i=1
+    bulletsCount1:i=1
+    bulletsCount2:i=1
     bulletsCount3:i=0
     modification:t="tank_engine_smoke_screen_system"
     modification:t="art_support"
