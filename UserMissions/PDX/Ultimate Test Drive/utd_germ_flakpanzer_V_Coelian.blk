@@ -77,9 +77,9 @@ units{
     bullets1:t="37mm_ger_flak36_AP"
     bullets2:t="37mm_ger_mgr_HE"
     bullets3:t=""
-    bulletsCount0:i=250
-    bulletsCount1:i=250
-    bulletsCount2:i=250
+    bulletsCount0:i=501
+    bulletsCount1:i=501
+    bulletsCount2:i=501
     bulletsCount3:i=0
     modification:t="art_support"
     modification:t="tank_smoke_screen_system_mod"

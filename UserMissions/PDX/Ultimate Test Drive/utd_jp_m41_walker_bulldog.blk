@@ -73,7 +73,7 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="jp_m41_walker_bulldog_default"
-    bullets0:t="76mm_usa_M32_HE"
+    bullets0:t=""
     bullets1:t="76mm_usa_M32_APCR"
     bullets2:t="76mm_usa_M32_APDS"
     bullets3:t="76mm_usa_M32_HEAT"

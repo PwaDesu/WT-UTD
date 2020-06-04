@@ -73,10 +73,10 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="ussr_object_685_default"
-    bullets0:t="100mm_ussr_HE"
-    bullets1:t="100mm_ussr_BR412D"
-    bullets2:t="100mm_ussr_3BK25"
-    bullets3:t="100mm_ussr_Smoke"
+    bullets0:t=""
+    bullets1:t="100mm_ussr_HE"
+    bullets2:t="100mm_ussr_BR412D"
+    bullets3:t="100mm_ussr_3BK25"
     bulletsCount0:i=10
     bulletsCount1:i=10
     bulletsCount2:i=10

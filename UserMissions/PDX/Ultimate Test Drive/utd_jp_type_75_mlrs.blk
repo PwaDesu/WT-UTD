@@ -73,11 +73,11 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="jp_type_75_mlrs_default"
-    bullets0:t="105mm_fr_CN105_HEAT"
+    bullets0:t=""
     bullets1:t=""
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=10
+    bulletsCount0:i=30
     bulletsCount1:i=10
     bulletsCount2:i=10
     bulletsCount3:i=0

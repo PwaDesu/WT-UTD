@@ -73,8 +73,8 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="sw_strv_m42_eh_default"
-    bullets0:t="75mm_sw_kan_APBC"
-    bullets1:t="75mm_sw_kan_Smoke"
+    bullets0:t=""
+    bullets1:t="75mm_sw_kan_APBC"
     bullets2:t="75mm_sw_kan_HE"
     bullets3:t="75mm_sw_kan_APHE"
     bulletsCount0:i=14

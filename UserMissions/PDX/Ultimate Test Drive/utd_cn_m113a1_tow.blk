@@ -73,7 +73,7 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="cn_m113a1_tow_default"
-    bullets0:t="105mm_fr_CN105_HEAT"
+    bullets0:t=""
     bullets1:t=""
     bullets2:t=""
     bullets3:t=""

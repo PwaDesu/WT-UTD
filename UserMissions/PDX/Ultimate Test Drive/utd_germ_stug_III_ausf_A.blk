@@ -73,10 +73,10 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="germ_stug_III_ausf_A_default"
-    bullets0:t="75mm_ger_kwk40_37_HE"
-    bullets1:t="75mm_ger_kwk37_HEAT"
-    bullets2:t="75mm_ger_kwk37_Hl_C_HEAT"
-    bullets3:t="75mm_ger_Smoke"
+    bullets0:t=""
+    bullets1:t="75mm_ger_kwk40_37_HE"
+    bullets2:t="75mm_ger_kwk37_HEAT"
+    bullets3:t="75mm_ger_kwk37_Hl_C_HEAT"
     bulletsCount0:i=11
     bulletsCount1:i=11
     bulletsCount2:i=11

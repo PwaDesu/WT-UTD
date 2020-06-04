@@ -73,12 +73,12 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="us_m551_default"
-    bullets0:t="152mm_usa_M657A2_HE"
-    bullets1:t="152mm_usa_MGM61B_HEAT"
-    bullets2:t=""
+    bullets0:t=""
+    bullets1:t="152mm_usa_M657A2_HE"
+    bullets2:t="152mm_usa_MGM61B_HEAT"
     bullets3:t=""
-    bulletsCount0:i=15
-    bulletsCount1:i=15
+    bulletsCount0:i=10
+    bulletsCount1:i=10
     bulletsCount2:i=10
     bulletsCount3:i=0
     modification:t="night_vision_system"

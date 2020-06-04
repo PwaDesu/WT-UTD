@@ -73,7 +73,7 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="germ_pzkpfw_IV_ausf_H_default"
-    bullets0:t="75mm_ger_kwk40_37_HE"
+    bullets0:t=""
     bullets1:t="75mm_ger_kwk40_HEAT"
     bullets2:t="75mm_ger_kwk40_APBC"
     bullets3:t="75mm_ger_kwk40_APCR"

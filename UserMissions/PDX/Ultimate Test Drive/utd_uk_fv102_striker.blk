@@ -73,13 +73,13 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="uk_fv102_striker_default"
-    bullets0:t="170mm_uk_swingfire"
-    bullets1:t="170mm_uk_swingfire_mk_2"
-    bullets2:t=""
+    bullets0:t=""
+    bullets1:t="170mm_uk_swingfire"
+    bullets2:t="170mm_uk_swingfire_mk_2"
     bullets3:t=""
     bulletsCount0:i=0
     bulletsCount1:i=0
-    bulletsCount2:i=10
+    bulletsCount2:i=0
     bulletsCount3:i=0
     modification:t="night_vision_system"
     modification:t="tank_additional_armor"

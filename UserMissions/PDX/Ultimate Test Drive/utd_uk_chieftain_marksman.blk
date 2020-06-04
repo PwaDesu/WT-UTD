@@ -77,9 +77,9 @@ units{
     bullets1:t="35mm_kda_APHEI"
     bullets2:t="35mm_kda_APDS"
     bullets3:t=""
-    bulletsCount0:i=83
-    bulletsCount1:i=83
-    bulletsCount2:i=83
+    bulletsCount0:i=166
+    bulletsCount1:i=166
+    bulletsCount2:i=166
     bulletsCount3:i=0
     modification:t="night_vision_system"
     modification:t="tank_additional_armor"

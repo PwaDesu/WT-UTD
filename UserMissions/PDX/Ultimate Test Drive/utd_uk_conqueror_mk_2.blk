@@ -73,12 +73,12 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="uk_conqueror_mk_2_default"
-    bullets0:t="120mm_britain_L1_HESH"
-    bullets1:t=""
+    bullets0:t=""
+    bullets1:t="120mm_britain_L1_HESH"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=35
-    bulletsCount1:i=10
+    bulletsCount0:i=17
+    bulletsCount1:i=17
     bulletsCount2:i=10
     bulletsCount3:i=0
     modification:t="tank_rangefinder"

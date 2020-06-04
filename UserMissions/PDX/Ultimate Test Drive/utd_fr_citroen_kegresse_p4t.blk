@@ -73,11 +73,11 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="fr_citroen_kegresse_p4t_default"
-    bullets0:t="13mm_hotckiss_AP"
+    bullets0:t="105mm_fr_CN105_HEAT"
     bullets1:t=""
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=360
+    bulletsCount0:i=10
     bulletsCount1:i=10
     bulletsCount2:i=10
     bulletsCount3:i=0

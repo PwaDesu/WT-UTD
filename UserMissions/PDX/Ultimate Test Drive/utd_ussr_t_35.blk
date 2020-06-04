@@ -79,8 +79,8 @@ units{
     bullets3:t="45mm_ussr_APCR"
     bulletsCount0:i=48
     bulletsCount1:i=48
-    bulletsCount2:i=56
-    bulletsCount3:i=56
+    bulletsCount2:i=113
+    bulletsCount3:i=113
     modification:t="tank_additional_armor"
     modification:t="manual_extinguisher"
     modification:t="tank_tool_kit"

@@ -80,7 +80,7 @@ units{
     bulletsCount0:i=13
     bulletsCount1:i=13
     bulletsCount2:i=13
-    bulletsCount3:i=0
+    bulletsCount3:i=750
     modification:t="night_vision_system"
     modification:t="art_support"
     modification:t="modern_tank_laser_rangefinder"

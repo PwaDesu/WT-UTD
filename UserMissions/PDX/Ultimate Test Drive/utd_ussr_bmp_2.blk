@@ -80,7 +80,7 @@ units{
     bulletsCount0:i=166
     bulletsCount1:i=166
     bulletsCount2:i=166
-    bulletsCount3:i=0
+    bulletsCount3:i=4
     modification:t="night_vision_system"
     modification:t="tank_engine_smoke_screen_system"
     modification:t="tank_additional_armor"

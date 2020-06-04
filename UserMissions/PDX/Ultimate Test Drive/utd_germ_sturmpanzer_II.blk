@@ -73,12 +73,12 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="germ_sturmpanzer_II_default"
-    bullets0:t="150mm_ger_HEAT"
-    bullets1:t=""
+    bullets0:t=""
+    bullets1:t="150mm_ger_HEAT"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=18
-    bulletsCount1:i=10
+    bulletsCount0:i=9
+    bulletsCount1:i=9
     bulletsCount2:i=10
     bulletsCount3:i=0
     modification:t="manual_extinguisher"

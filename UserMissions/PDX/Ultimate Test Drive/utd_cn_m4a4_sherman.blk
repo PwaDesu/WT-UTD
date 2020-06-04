@@ -73,10 +73,10 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="cn_m4a4_sherman_default"
-    bullets0:t="75mm_usa_HE"
-    bullets1:t="75mm_usa_APCBC"
-    bullets2:t="75mm_usa_APCR"
-    bullets3:t="75mm_us_M89_Smoke"
+    bullets0:t=""
+    bullets1:t="75mm_usa_HE"
+    bullets2:t="75mm_usa_APCBC"
+    bullets3:t="75mm_usa_APCR"
     bulletsCount0:i=24
     bulletsCount1:i=24
     bulletsCount2:i=24

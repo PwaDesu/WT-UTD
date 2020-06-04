@@ -76,11 +76,11 @@ units{
     bullets0:t="105mm_fr_CN105_HEAT"
     bullets1:t="105mm_fr_CN105_HE"
     bullets2:t="105mm_fr_CN105_APDSFS"
-    bullets3:t="105mm_fr_CN105_Smoke"
-    bulletsCount0:i=11
-    bulletsCount1:i=11
-    bulletsCount2:i=11
-    bulletsCount3:i=11
+    bullets3:t=""
+    bulletsCount0:i=15
+    bulletsCount1:i=15
+    bulletsCount2:i=15
+    bulletsCount3:i=1000
     modification:t="night_vision_system"
     modification:t="art_support"
     modification:t="modern_tank_laser_rangefinder"

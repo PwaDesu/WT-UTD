@@ -73,10 +73,10 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="jp_type_61_default"
-    bullets0:t="90mm_jp_M82_APCBC"
-    bullets1:t="90mm_jp_M431_HEAT"
-    bullets2:t="90mm_jp_M71_HE"
-    bullets3:t="90mm_us_M313_Smoke"
+    bullets0:t=""
+    bullets1:t="90mm_jp_M82_APCBC"
+    bullets2:t="90mm_jp_M431_HEAT"
+    bullets3:t="90mm_jp_M71_HE"
     bulletsCount0:i=12
     bulletsCount1:i=12
     bulletsCount2:i=12

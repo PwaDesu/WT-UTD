@@ -73,7 +73,7 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="jp_pzkpfw_VI_ausf_e_tiger_default"
-    bullets0:t="88mm_ger_kwk36_default_HE"
+    bullets0:t=""
     bullets1:t="88mm_ger_kwk36_Pzgr_APCBC"
     bullets2:t="88mm_ger_kwk36_HEAT"
     bullets3:t="88mm_ger_kwk36_APCR"

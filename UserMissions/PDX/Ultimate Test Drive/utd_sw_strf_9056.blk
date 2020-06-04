@@ -73,7 +73,7 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="sw_strf_9056_default"
-    bullets0:t="40mm_sw_kan_90c_HE"
+    bullets0:t=""
     bullets1:t="40mm_sw_kan_HE_VT"
     bullets2:t="40mm_sw_kan_APDSFS"
     bullets3:t="150mm_sw_bill"

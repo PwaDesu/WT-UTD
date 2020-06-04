@@ -73,14 +73,14 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="ussr_is_4m_default"
-    bullets0:t="122mm_ussr_APCBC"
-    bullets1:t="122mm_ussr_APDS"
-    bullets2:t="122mm_ussr_HEAT_ZBK"
-    bullets3:t="isBulletBelt:b=n"
-    bulletsCount0:i=10
-    bulletsCount1:i=10
-    bulletsCount2:i=10
-    bulletsCount3:i=2
+    bullets0:t=""
+    bullets1:t="122mm_ussr_APCBC"
+    bullets2:t="122mm_ussr_APDS"
+    bullets3:t="122mm_ussr_HEAT_ZBK"
+    bulletsCount0:i=7
+    bulletsCount1:i=7
+    bulletsCount2:i=7
+    bulletsCount3:i=7
     modification:t="tank_additional_armor"
     modification:t="tank_smoke_screen_system_mod"
     modification:t="manual_extinguisher"

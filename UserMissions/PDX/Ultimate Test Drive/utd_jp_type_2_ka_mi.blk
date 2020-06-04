@@ -73,12 +73,12 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="jp_type_2_ka_mi_default"
-    bullets0:t="37mm_type_1_APHE"
-    bullets1:t=""
+    bullets0:t=""
+    bullets1:t="37mm_type_1_APHE"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=132
-    bulletsCount1:i=10
+    bulletsCount0:i=66
+    bulletsCount1:i=66
     bulletsCount2:i=10
     bulletsCount3:i=0
     modification:t="tank_additional_armor"

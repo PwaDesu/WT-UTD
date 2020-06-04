@@ -78,7 +78,7 @@ units{
     bullets2:t=""
     bullets3:t=""
     bulletsCount0:i=8
-    bulletsCount1:i=10
+    bulletsCount1:i=6
     bulletsCount2:i=10
     bulletsCount3:i=0
     modification:t="night_vision_system"

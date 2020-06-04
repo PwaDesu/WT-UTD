@@ -73,7 +73,7 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="us_m4a5_ram_2_default"
-    bullets0:t="57mm_britain_6pdr_HE"
+    bullets0:t=""
     bullets1:t="57mm_britain_6pdr_AP_HV"
     bullets2:t="57mm_britain_6pdr_APC"
     bullets3:t="57mm_britain_6pdr_APCBC"

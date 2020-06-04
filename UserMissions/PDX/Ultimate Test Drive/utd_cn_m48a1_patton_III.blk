@@ -73,10 +73,10 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="cn_m48a1_patton_III_default"
-    bullets0:t="90mm_us_M82_APCBC"
-    bullets1:t="90mm_us_M431_HEAT"
-    bullets2:t="90mm_us_T142E3_HESH"
-    bullets3:t="90mm_us_M71_HE"
+    bullets0:t=""
+    bullets1:t="90mm_us_M82_APCBC"
+    bullets2:t="90mm_us_M431_HEAT"
+    bullets3:t="90mm_us_T142E3_HESH"
     bulletsCount0:i=15
     bulletsCount1:i=15
     bulletsCount2:i=15

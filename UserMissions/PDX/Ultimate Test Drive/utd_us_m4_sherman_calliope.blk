@@ -73,11 +73,11 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="us_m4_sherman_calliope_default"
-    bullets0:t="75mm_usa_HE"
-    bullets1:t="75mm_usa_APCBC"
-    bullets2:t="75mm_usa_APCR"
-    bullets3:t="75mm_us_M89_Smoke"
-    bulletsCount0:i=24
+    bullets0:t=""
+    bullets1:t="75mm_usa_HE"
+    bullets2:t="75mm_usa_APCBC"
+    bullets3:t="75mm_usa_APCR"
+    bulletsCount0:i=48
     bulletsCount1:i=24
     bulletsCount2:i=24
     bulletsCount3:i=24

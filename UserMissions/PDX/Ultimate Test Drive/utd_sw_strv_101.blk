@@ -73,10 +73,10 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="sw_strv_101_default"
-    bullets0:t="105mm_sweden_APDS"
-    bullets1:t="105mm_usa_HESH"
-    bullets2:t="105mm_sweden_HE"
-    bullets3:t="105mm_us_M416_Smoke"
+    bullets0:t=""
+    bullets1:t="105mm_sweden_APDS"
+    bullets2:t="105mm_usa_HESH"
+    bullets3:t="105mm_sweden_HE"
     bulletsCount0:i=17
     bulletsCount1:i=17
     bulletsCount2:i=17

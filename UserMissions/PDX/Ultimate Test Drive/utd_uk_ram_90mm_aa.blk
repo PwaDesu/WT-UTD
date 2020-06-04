@@ -73,12 +73,12 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="uk_ram_90mm_aa_default"
-    bullets0:t="94mm_britain_32pdr_HE"
-    bullets1:t=""
+    bullets0:t=""
+    bullets1:t="94mm_britain_32pdr_HE"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=44
-    bulletsCount1:i=10
+    bulletsCount0:i=22
+    bulletsCount1:i=22
     bulletsCount2:i=10
     bulletsCount3:i=0
     modification:t="manual_extinguisher"

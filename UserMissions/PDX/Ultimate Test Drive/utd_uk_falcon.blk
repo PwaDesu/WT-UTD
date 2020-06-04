@@ -77,9 +77,9 @@ units{
     bullets1:t="30mm_hs_831_APDS"
     bullets2:t="30mm_hs_831_HE"
     bullets3:t=""
-    bulletsCount0:i=103
-    bulletsCount1:i=103
-    bulletsCount2:i=103
+    bulletsCount0:i=206
+    bulletsCount1:i=206
+    bulletsCount2:i=206
     bulletsCount3:i=0
     modification:t="night_vision_system"
     modification:t="tank_additional_armor"

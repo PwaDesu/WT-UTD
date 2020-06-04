@@ -80,7 +80,7 @@ units{
     bulletsCount0:i=12
     bulletsCount1:i=12
     bulletsCount2:i=12
-    bulletsCount3:i=0
+    bulletsCount3:i=4
     modification:t="tank_additional_armor"
     modification:t="art_support"
     modification:t="tank_smoke_screen_system_mod"

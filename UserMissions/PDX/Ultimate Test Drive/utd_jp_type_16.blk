@@ -73,9 +73,9 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="jp_type_16_default"
-    bullets0:t="105mm_usa_HESH"
-    bullets1:t="105mm_usa_HEAT_FS"
-    bullets2:t="105mm_us_M416_Smoke"
+    bullets0:t=""
+    bullets1:t="105mm_usa_HESH"
+    bullets2:t="105mm_usa_HEAT_FS"
     bullets3:t="105mm_jp_Type93_APDS_FS"
     bulletsCount0:i=10
     bulletsCount1:i=10

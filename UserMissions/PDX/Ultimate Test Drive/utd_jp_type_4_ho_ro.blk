@@ -73,12 +73,12 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="jp_type_4_ho_ro_default"
-    bullets0:t="150mm_jp_type_92_HE"
-    bullets1:t=""
+    bullets0:t=""
+    bullets1:t="150mm_jp_type_92_HE"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=28
-    bulletsCount1:i=10
+    bulletsCount0:i=14
+    bulletsCount1:i=14
     bulletsCount2:i=10
     bulletsCount3:i=0
     modification:t="tank_additional_armor"

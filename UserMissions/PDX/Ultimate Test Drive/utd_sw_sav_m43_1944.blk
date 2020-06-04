@@ -73,9 +73,9 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="sw_sav_m43_1944_default"
-    bullets0:t="75mm_sw_kan_APBC"
-    bullets1:t="75mm_sw_kan_APHE"
-    bullets2:t="75mm_sw_kan_Smoke"
+    bullets0:t=""
+    bullets1:t="75mm_sw_kan_APBC"
+    bullets2:t="75mm_sw_kan_APHE"
     bullets3:t="75mm_sw_kan_HE"
     bulletsCount0:i=20
     bulletsCount1:i=20

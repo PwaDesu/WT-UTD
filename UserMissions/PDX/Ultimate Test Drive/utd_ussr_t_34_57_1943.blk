@@ -73,7 +73,7 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="ussr_t_34_57_1943_default"
-    bullets0:t="57mm_ussr_HE"
+    bullets0:t=""
     bullets1:t="57mm_ussr_AP"
     bullets2:t="57mm_ussr_APCR"
     bullets3:t="57mm_ussr_APCBC"

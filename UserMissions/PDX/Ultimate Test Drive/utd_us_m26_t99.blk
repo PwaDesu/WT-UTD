@@ -73,11 +73,11 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="us_m26_t99_default"
-    bullets0:t="90mm_us_M71_HE"
-    bullets1:t="90mm_us_M82_APCBC"
-    bullets2:t="90mm_us_M304_APCR"
-    bullets3:t="90mm_us_M313_Smoke"
-    bulletsCount0:i=17
+    bullets0:t=""
+    bullets1:t="90mm_us_M71_HE"
+    bullets2:t="90mm_us_M82_APCBC"
+    bullets3:t="90mm_us_M304_APCR"
+    bulletsCount0:i=35
     bulletsCount1:i=17
     bulletsCount2:i=17
     bulletsCount3:i=17

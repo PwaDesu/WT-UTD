@@ -73,10 +73,10 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="us_m4a3e2_76w_sherman_jumbo_default"
-    bullets0:t="76mm_usa_M42A1_HE"
-    bullets1:t="76mm_usa_M79_AP"
-    bullets2:t="76mm_usa_M93_APCR"
-    bullets3:t="76mm_us_M88_Smoke"
+    bullets0:t=""
+    bullets1:t="76mm_usa_M42A1_HE"
+    bullets2:t="76mm_usa_M79_AP"
+    bullets3:t="76mm_usa_M93_APCR"
     bulletsCount0:i=17
     bulletsCount1:i=17
     bulletsCount2:i=17

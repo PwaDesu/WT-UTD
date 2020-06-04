@@ -77,9 +77,9 @@ units{
     bullets1:t="20mm_ger_kwk30_AP"
     bullets2:t="20mm_ger_kwk30_APCR"
     bullets3:t=""
-    bulletsCount0:i=266
-    bulletsCount1:i=266
-    bulletsCount2:i=266
+    bulletsCount0:i=1066
+    bulletsCount1:i=1066
+    bulletsCount2:i=1066
     bulletsCount3:i=0
     modification:t="tank_additional_armor"
     modification:t="art_support"

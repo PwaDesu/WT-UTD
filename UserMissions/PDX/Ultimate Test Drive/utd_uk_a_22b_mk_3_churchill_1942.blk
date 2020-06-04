@@ -73,7 +73,7 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="uk_a_22b_mk_3_churchill_1942_default"
-    bullets0:t="57mm_britain_6pdr_HE"
+    bullets0:t=""
     bullets1:t="57mm_britain_6pdr_APC"
     bullets2:t="57mm_britain_6pdr_APCBC"
     bullets3:t="57mm_britain_6pdr_APDS"

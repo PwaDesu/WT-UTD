@@ -73,9 +73,9 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="germ_mkpz_m48a2c_default"
-    bullets0:t="90mm_us_M82_APCBC"
-    bullets1:t="90mm_us_M431_HEAT"
-    bullets2:t="90mm_us_M71_HE"
+    bullets0:t=""
+    bullets1:t="90mm_us_M82_APCBC"
+    bullets2:t="90mm_us_M431_HEAT"
     bullets3:t="90mm_ger_DM502_JPz_HESH"
     bulletsCount0:i=11
     bulletsCount1:i=11

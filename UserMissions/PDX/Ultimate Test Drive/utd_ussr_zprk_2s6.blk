@@ -77,9 +77,9 @@ units{
     bullets1:t="30mm_2a42_AP"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=242
-    bulletsCount1:i=242
-    bulletsCount2:i=10
+    bulletsCount0:i=968
+    bulletsCount1:i=968
+    bulletsCount2:i=8
     bulletsCount3:i=0
     modification:t="night_vision_system"
     modification:t="tank_additional_armor"

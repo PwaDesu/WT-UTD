@@ -77,9 +77,9 @@ units{
     bullets1:t="120mm_NATO_APDS_FS"
     bullets2:t="120mm_DM_APDS_FS"
     bullets3:t=""
-    bulletsCount0:i=6
-    bulletsCount1:i=6
-    bulletsCount2:i=6
+    bulletsCount0:i=12
+    bulletsCount1:i=12
+    bulletsCount2:i=12
     bulletsCount3:i=0
     modification:t="night_vision_system"
     modification:t="modern_tank_laser_rangefinder"

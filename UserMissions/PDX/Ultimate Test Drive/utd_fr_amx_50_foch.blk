@@ -73,7 +73,7 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="fr_amx_50_foch_default"
-    bullets0:t="120mm_usa_M356_HE"
+    bullets0:t=""
     bullets1:t="15mm_ger_universal"
     bullets2:t="15mm_ger_ap_navy"
     bullets3:t="15mm_ger_he_navy"

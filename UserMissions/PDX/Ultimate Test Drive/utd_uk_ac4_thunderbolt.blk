@@ -73,7 +73,7 @@ units{
     isShipSpline:b=no
     shipTurnRadius:r=100
     weapons:t="uk_ac4_thunderbolt_default"
-    bullets0:t="76mm_britain_17pdr_HE"
+    bullets0:t=""
     bullets1:t="76mm_britain_17pdr_APC"
     bullets2:t="76mm_britain_17pdr_APCBC"
     bullets3:t="76mm_britain_17pdr_APDS"

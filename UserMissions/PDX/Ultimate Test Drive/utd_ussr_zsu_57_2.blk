@@ -77,10 +77,10 @@ units{
     bullets1:t="57mm_ussr_AP"
     bullets2:t="57mm_ussr_APCBC"
     bullets3:t="57mm_HE_VT"
-    bulletsCount0:i=37
-    bulletsCount1:i=37
-    bulletsCount2:i=37
-    bulletsCount3:i=37
+    bulletsCount0:i=74
+    bulletsCount1:i=74
+    bulletsCount2:i=74
+    bulletsCount3:i=74
     modification:t="art_support"
     modification:t="manual_extinguisher"
     modification:t="tank_tool_kit"
