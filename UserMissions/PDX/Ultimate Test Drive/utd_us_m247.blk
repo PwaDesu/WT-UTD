@@ -77,9 +77,9 @@ units{
     bullets1:t="40mm_SGT_YORK_AP"
     bullets2:t="40mm_SGT_YORK_HE_prox"
     bullets3:t=""
-    bulletsCount0:i=186
-    bulletsCount1:i=186
-    bulletsCount2:i=186
+    bulletsCount0:i=62
+    bulletsCount1:i=62
+    bulletsCount2:i=62
     bulletsCount3:i=0
     modification:t="night_vision_system"
     modification:t="tank_additional_armor"

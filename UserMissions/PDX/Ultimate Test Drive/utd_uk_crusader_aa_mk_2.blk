@@ -77,8 +77,8 @@ units{
     bullets1:t="20mm_Oerlikon_AP"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=600
-    bulletsCount1:i=600
+    bulletsCount0:i=5
+    bulletsCount1:i=5
     bulletsCount2:i=0
     bulletsCount3:i=0
     modification:t="tank_additional_armor"

@@ -77,8 +77,8 @@ units{
     bullets1:t="20mm_Vulcan_API"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=1100
-    bulletsCount1:i=1100
+    bulletsCount0:i=2
+    bulletsCount1:i=2
     bulletsCount2:i=0
     bulletsCount3:i=0
     modification:t="night_vision_system"

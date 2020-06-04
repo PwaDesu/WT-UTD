@@ -77,8 +77,8 @@ units{
     bullets1:t="23mm_ussr_APIT"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=1000
-    bulletsCount1:i=1000
+    bulletsCount0:i=10
+    bulletsCount1:i=10
     bulletsCount2:i=0
     bulletsCount3:i=0
     modification:t="night_vision_system"

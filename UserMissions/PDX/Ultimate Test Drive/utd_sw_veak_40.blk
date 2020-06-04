@@ -77,8 +77,8 @@ units{
     bullets1:t="40mm_sw_kan_APC"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=210
-    bulletsCount1:i=210
+    bulletsCount0:i=20
+    bulletsCount1:i=20
     bulletsCount2:i=0
     bulletsCount3:i=0
     modification:t="art_support"

@@ -77,9 +77,9 @@ units{
     bullets1:t="12mm_ussr_dshk_AP"
     bullets2:t="12mm_ussr_dshk_APIT"
     bullets3:t=""
-    bulletsCount0:i=333
-    bulletsCount1:i=333
-    bulletsCount2:i=333
+    bulletsCount0:i=111
+    bulletsCount1:i=111
+    bulletsCount2:i=111
     bulletsCount3:i=0
     modification:t="art_support"
     modification:t="manual_extinguisher"

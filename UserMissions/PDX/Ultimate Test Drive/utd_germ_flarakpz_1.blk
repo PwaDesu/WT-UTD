@@ -77,8 +77,8 @@ units{
     bullets1:t="163mm_roland_3_aam"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=5
-    bulletsCount1:i=5
+    bulletsCount0:i=2
+    bulletsCount1:i=2
     bulletsCount2:i=0
     bulletsCount3:i=0
     modification:t="modern_tank_stereo_rangefinder"

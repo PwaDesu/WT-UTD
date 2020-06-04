@@ -77,8 +77,8 @@ units{
     bullets1:t="30mm_2a42_AP"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=968
-    bulletsCount1:i=968
+    bulletsCount0:i=484
+    bulletsCount1:i=484
     bulletsCount2:i=8
     bulletsCount3:i=0
     modification:t="night_vision_system"

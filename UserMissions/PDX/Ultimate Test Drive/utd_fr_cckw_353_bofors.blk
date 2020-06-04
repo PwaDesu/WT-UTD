@@ -77,8 +77,8 @@ units{
     bullets1:t="40mm_usa_M2_AP"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=192
-    bulletsCount1:i=192
+    bulletsCount0:i=96
+    bulletsCount1:i=96
     bulletsCount2:i=0
     bulletsCount3:i=0
     modification:t="art_support"

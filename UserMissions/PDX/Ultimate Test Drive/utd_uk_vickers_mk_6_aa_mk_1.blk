@@ -77,10 +77,10 @@ units{
     bullets1:t="7_92mm_BESA_universal"
     bullets2:t="7_92mm_BESA_API"
     bullets3:t="7_92mm_BESA_AP"
-    bulletsCount0:i=900
-    bulletsCount1:i=900
-    bulletsCount2:i=900
-    bulletsCount3:i=900
+    bulletsCount0:i=225
+    bulletsCount1:i=225
+    bulletsCount2:i=225
+    bulletsCount3:i=225
     modification:t="art_support"
     modification:t="manual_extinguisher"
     modification:t="tank_tool_kit"

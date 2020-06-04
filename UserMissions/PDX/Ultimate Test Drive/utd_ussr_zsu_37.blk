@@ -77,9 +77,9 @@ units{
     bullets1:t="37mm_ussr_61K_AP"
     bullets2:t="37mm_ussr_61K_APCR"
     bullets3:t=""
-    bulletsCount0:i=96
-    bulletsCount1:i=96
-    bulletsCount2:i=96
+    bulletsCount0:i=32
+    bulletsCount1:i=32
+    bulletsCount2:i=32
     bulletsCount3:i=0
     modification:t="tank_additional_armor"
     modification:t="art_support"

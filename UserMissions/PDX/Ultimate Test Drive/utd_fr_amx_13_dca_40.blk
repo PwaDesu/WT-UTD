@@ -77,8 +77,8 @@ units{
     bullets1:t="40mm_L70_AP"
     bullets2:t=""
     bullets3:t=""
-    bulletsCount0:i=202
-    bulletsCount1:i=202
+    bulletsCount0:i=101
+    bulletsCount1:i=101
     bulletsCount2:i=0
     bulletsCount3:i=0
     modification:t="tank_additional_armor"
