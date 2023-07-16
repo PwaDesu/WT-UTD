@@ -1,5 +1,9 @@
 # War Thunder - Ultimate Test Drive
 
+## Notice
+
+Any work on this has been put on hold until Gaijin decides to stop being bad and unchain the modding tools.
+
 ## Description
 
 I got tired of the War Thunder's standard test drive, I found it to simply be too incomplete to properly give an idea of how well a vehicle can perform. So I built this singleplayer mission (well, "this", technically over 600 missions, but you get what I mean) as some kind of sandbox and to allow for better assessment of a vehicle's performance.
